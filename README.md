@@ -65,8 +65,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run covid_dashboard.py
 ```
-
-## Author
-Shiv Palit
-M.S. Data Science
-Johns Hopkins University
