@@ -1,4 +1,4 @@
-# COVID-19 Impact Analysis on New York City: Economic and Social Perspectives
+# COVID-19 Impact Analysis on New York City
 
 ## Project Overview
 This project, developed as part of the Data Visualization course in the M.S. in Data Science program at Johns Hopkins University, analyzes the economic and societal impact of COVID-19 on New York City. The analysis focuses on three key areas:
